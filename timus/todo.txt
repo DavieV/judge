@@ -1,0 +1,17 @@
+//problems that have been started and not yet completed
+
+1005. Stone Pile //Need to learn Dynamic Programming
+1009. K-based Numbers //Need to learn Dynamic Programming
+1100. Final Standings
+1106. Two Teams
+1120. Sum of sequential numbers
+1149. Sinus Dances //Need to find a way to convert an int to a string (Online judge doesn't compile with c++11)
+1194. Handshakes
+1243. Divorce of the Seven Dwarfs *********DONE**********
+1319. Hotel
+1654. Cipher Message //Time Limit exceeded, have Quinn explain stacks
+1786. Sandro's Bibliography
+1796. Amusement Park
+1820. Ural Steaks
+1837. Isanbaev's Number
+1881. Long Problem Statement
